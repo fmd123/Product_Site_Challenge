@@ -1,0 +1,25 @@
+body {background-size:cover; 
+	background-image: url('IMG_5414.jpg'); 
+	font-family: serif;  
+	img src="81670486160steam.gif"
+}
+
+.jumbotron {background-size:cover; 
+	background-image: url('IMG_5414.jpg');
+	color: darkslategray;
+}
+
+.container {
+
+}
+
+.btn {border-radius: 30px; 
+	color: steelblue;
+	border-color: lightblue; 
+	background-color: aliceblue;
+}
+.navbar {
+    background-color: aliceblue;
+    border-color: lightblue;
+    color: dodgerblue;
+  }
